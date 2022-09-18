@@ -119,9 +119,7 @@ section ul li:nth-child(2){
 section ul li:nth-child(3){
   animation: toUl .5s 2.4s backwards;
 }
-section ul li:nth-child(4){
-  animation: toUl .5s 2.9s backwards;
-}
+
 
 @keyframes toHeader{
   from{
